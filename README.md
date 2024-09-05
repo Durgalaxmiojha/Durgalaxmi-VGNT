@@ -1,2 +1,2 @@
 # Durgalaxmi-VGNT
-This is my fist git Respository
+This is my first git Respository
